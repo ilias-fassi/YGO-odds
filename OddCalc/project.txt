@@ -1,0 +1,4 @@
+Odds to open at least n among c cards in h cards hand in a d cards deck
+
+1. custom odds calc [DONE]
+2. tables [DONE]
