@@ -138,5 +138,5 @@ function GenerateTable (Tables) {
 function displayTables (){
     fill_tables();
     var Tables = [T51, T52, T53, T61, T62, T63];
-    document.getElementById('table_h5_n1').innerHTML= GenerateTable (Tables);
+    document.getElementById('tables').innerHTML= GenerateTable (Tables);
 }
